@@ -1,3 +1,3 @@
 hello github
 00
-new key
+new key of ssh
